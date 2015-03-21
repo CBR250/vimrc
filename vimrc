@@ -338,3 +338,6 @@ au BufWritePost *.coffee silent CoffeeMake! -b | cwindow | redraw! " recompile c
 
 " --- vim-gitgutter
 let g:gitgutter_enabled = 1
+
+" --- multi-cscope-db.git
+" Please install cscope to activate this function
