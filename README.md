@@ -121,6 +121,8 @@ PLUGINS
     `,,b` backward EasyMotion   
 
 * [TagBar](http://majutsushi.github.com/tagbar/): browsing the tags of source files ordered by classes.
+  Usage method:
+  Please install ctags to let the function work.
 
   Useful commands:    
     `F7` toggles the TagBar
@@ -141,6 +143,21 @@ PLUGINS
   `:Ack [options] {pattern} [{directory}]`
 
 * [Git Gutter](https://github.com/airblade/vim-gitgutter): shows a git diff in the 'gutter' (sign column). It shows whether each line has been added, modified, and where lines have been removed.
+
+* [multi-cscope-db](https://github.com/Jumbo88888/multi-cscope-db.git): Cscope is a developer's tool for browsing source code..
+  Usage method:
+  Please install cscope to let the function work.
+
+  Useful commands:    
+    <C-\>  c: Find functions calling this function
+    <C-\>  d: Find functions called by this function
+    <C-\>  e: Find this egrep pattern
+    <C-\>  f: Find this file
+    <C-\>  g: Find this definition
+    <C-\>  i: Find files #including this file
+    <C-\>  s: Find this C symbol
+    <C-\>  t: Find this text string
+
 
 Language specific supports
 --------------------------
