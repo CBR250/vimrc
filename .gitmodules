@@ -94,3 +94,6 @@
 [submodule "bundle/multi-cscope-db.git"]
 	path = bundle/multi-cscope-db.git
 	url = git@github.com:Jumbo88888/multi-cscope-db.git
+[submodule "bundle/ctrlp.vim.git"]
+	path = bundle/ctrlp.vim.git
+	url = git@github.com:Jumbo88888/ctrlp.vim.git
