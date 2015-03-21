@@ -158,6 +158,10 @@ PLUGINS
     \<C-\\>  s: Find this C symbol    
     \<C-\\>  t: Find this text string    
 
+* [ctrlp.vim.git](https://github.com/Jumbo88888/ctrlp.vim.git): Finder - Full path fuzzy file, buffer, mru, tag.
+
+    \<C-a\>  p: find the file into vim
+
 
 Language specific supports
 --------------------------
