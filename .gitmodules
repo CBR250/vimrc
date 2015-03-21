@@ -91,3 +91,6 @@
 [submodule "bundle/snipmate-snippets"]
 	path = bundle/snipmate-snippets
 	url = git://github.com/scrooloose/snipmate-snippets.git
+[submodule "bundle/multi-cscope-db.git"]
+	path = bundle/multi-cscope-db.git
+	url = git@github.com:Jumbo88888/multi-cscope-db.git

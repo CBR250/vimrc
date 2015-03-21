@@ -321,6 +321,7 @@ hi link EasyMotionShade  Comment
 
 " --- TagBar
 " toggle TagBar with F7
+" Please install ctags to activate this function
 nnoremap <silent> <F7> :TagbarToggle<CR> 
 " set focus to TagBar when opening it
 let g:tagbar_autofocus = 1
