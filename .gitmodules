@@ -88,9 +88,6 @@
 [submodule "bundle/vim-gitgutter"]
 	path = bundle/vim-gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
-[submodule "bundle/snipmate-snippets"]
-	path = bundle/snipmate-snippets
-	url = git://github.com/scrooloose/snipmate-snippets.git
 [submodule "bundle/multi-cscope-db.git"]
 	path = bundle/multi-cscope-db.git
 	url = https://github.com/Jumbo88888/multi-cscope-db.git
