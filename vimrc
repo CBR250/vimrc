@@ -302,7 +302,8 @@ if !has("gui_running")
    nmap OD h
 endif
 
-
+" --- ack.vim - Searches the named input FILEs
+cmap ack Ack "" .
 
 " --- Command-T
 let g:CommandTMaxHeight = 15
