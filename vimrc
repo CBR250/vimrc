@@ -303,7 +303,7 @@ if !has("gui_running")
 endif
 
 " --- ack.vim - Searches the named input FILEs
-cmap ack Ack "" .
+nmap <C-\>a :Ack ""<C-R>=expand("<cword>")"" . <CR><CR>
 
 " --- Command-T
 let g:CommandTMaxHeight = 15
