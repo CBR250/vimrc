@@ -142,6 +142,9 @@ PLUGINS
 
   `:Ack [options] {pattern} [{directory}]`
 
+  Useful commands:    
+    `:ack` = Ack "<FileName>" .        (. = Current Folder)
+
 * [Git Gutter](https://github.com/airblade/vim-gitgutter): shows a git diff in the 'gutter' (sign column). It shows whether each line has been added, modified, and where lines have been removed.
 
 * [multi-cscope-db](https://github.com/Jumbo88888/multi-cscope-db.git): Cscope is a developer's tool for browsing source code.    
