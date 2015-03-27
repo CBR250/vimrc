@@ -28,13 +28,15 @@ MANUALLY INSTALL
 2. Install ~/.vimrc and ~/.gvimrc
 
         ./install-vimrc.sh
+          
+          * [git up-sub-snipmate-snippets] - update the lastest commit of submodule 
 
 3. (Optional, if you want Command-T) Compile the Command-T plugin
 
         cd .vim/bundle/command-t/ruby/command-t
         ruby extconf.rb
         make
-
+          
 MANUALLY INSTALL ON WINDOWS
 ---------------------------
 
