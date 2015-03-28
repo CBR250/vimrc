@@ -167,6 +167,11 @@ PLUGINS
 
     \<C-a\>  p: find the file into vim
 
+* [DirDiff.vim](https://github.com/vim-scripts/DirDiff.vim.git): A plugin to diff and merge two directories recursively. 
+
+  Useful commands:   
+    `dd` expand to "DirDiff".
+
 
 Language specific supports
 --------------------------
