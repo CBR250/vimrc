@@ -29,9 +29,13 @@ MANUALLY INSTALL
 
         ./install-vimrc.sh
           
-          * [git up-sub-snipmate-snippets] - update the lastest commit of submodule 
+3. Add git submodule command
 
-3. (Optional, if you want Command-T) Compile the Command-T plugin
+        python ./git-sub-update.py
+
+         * [git up-sub-snipmate-snippets] - update the lastest commit of submodule 
+
+4. (Optional, if you want Command-T) Compile the Command-T plugin
 
         cd .vim/bundle/command-t/ruby/command-t
         ruby extconf.rb
