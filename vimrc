@@ -353,3 +353,8 @@ cmap dd DirDiff
 
 " --- multi-cscope-db.git
 " Please install cscope to activate this function
+"
+
+" --- ctrlp.vim.git
+map <C-p><C-p>  :CtrlP<CR>
+
