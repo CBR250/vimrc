@@ -75,8 +75,8 @@ set tm=500
 
 " TAB setting{
    set expandtab        "replace <TAB> with spaces
-   set softtabstop=3 
-   set shiftwidth=3 
+   set softtabstop=4 
+   set shiftwidth=4
 
    au FileType Makefile set noexpandtab
 "}      							
@@ -177,6 +177,9 @@ cnoremap <C-K>      <C-U>
 
 " ,p toggles paste mode
 nmap <leader>p :set paste!<BAR>set paste?<CR>
+
+" Delete all trailing whitespace
+cmap rms  :%s/\s\+$//<CR>
 
 " allow multiple indentation/deindentation in visual mode
 vnoremap < <gv
