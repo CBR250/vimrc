@@ -359,5 +359,8 @@ cmap dd DirDiff
 "
 
 " --- ctrlp.vim.git
+"  CtrlPClearAllCaches   <-- Clean cache rescan again
+"  The number of scanning file unlimit
+let g:ctrlp_max_files=0
 map <C-p><C-p>  :CtrlP<CR>
 
