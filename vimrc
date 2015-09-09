@@ -181,6 +181,9 @@ nmap <leader>p :set paste!<BAR>set paste?<CR>
 " Delete all trailing whitespace
 cmap rms  :%s/\s\+$//<CR>
 
+" Substitute a debug message with random number
+cmap ran,  :%! perl -pne '$random=int(rand 10000000000); s/XYZ123/$random/'
+
 " allow multiple indentation/deindentation in visual mode
 vnoremap < <gv
 vnoremap > >gv
