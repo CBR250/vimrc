@@ -24,6 +24,7 @@ MANUALLY INSTALL
         git clone git://github.com/vgod/vimrc.git ~/.vim
         cd ~/.vim
         git submodule update --init
+        git submodule foreach git pull origin master (update all submodule)
 
 2. Install ~/.vimrc and ~/.gvimrc
 
