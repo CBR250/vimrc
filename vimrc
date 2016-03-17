@@ -354,7 +354,7 @@ au BufWritePost *.coffee silent CoffeeMake! -b | cwindow | redraw! " recompile c
 let g:gitgutter_enabled = 1
 
 " --- DirDiff.vim 
-cmap dd DirDiff 
+cmap dd, DirDiff 
 
 
 " --- multi-cscope-db.git
