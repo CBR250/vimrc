@@ -356,6 +356,8 @@ let g:gitgutter_enabled = 1
 " --- DirDiff.vim 
 cmap dd, DirDiff 
 
+" --- :cd %:p:h
+cmap pwd, cd %:p:h 
 
 " --- multi-cscope-db.git
 " Please install cscope to activate this function
