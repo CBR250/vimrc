@@ -104,3 +104,6 @@
 [submodule "bundle/CCTree"]
 	path = bundle/CCTree
 	url = git@github.com:hari-rangarajan/CCTree.git
+[submodule "bundle/SrcExpl"]
+	path = bundle/SrcExpl
+	url = git@github.com:wesleyche/SrcExpl.git
