@@ -107,3 +107,6 @@
 [submodule "bundle/SrcExpl"]
 	path = bundle/SrcExpl
 	url = git@github.com:wesleyche/SrcExpl.git
+[submodule "bundle/Taglist"]
+	path = bundle/Taglist
+	url = https://github.com/Jumbo88888/Taglist.git
