@@ -87,17 +87,17 @@
 	url = git://github.com/airblade/vim-gitgutter.git
 [submodule "bundle/multi-cscope-db.git"]
 	path = bundle/multi-cscope-db.git
-	url = https://github.com/Jumbo88888/multi-cscope-db.git
+	url = git@github.com:CBR250/multi-cscope-db.git
 [submodule "bundle/ctrlp.vim.git"]
 	path = bundle/ctrlp.vim.git
-        url = https://github.com/Jumbo88888/ctrlp.vim.git
+        url = git@github.com:CBR250/ctrlp.vim.git
 
 [submodule "bundle/emmet-vim"]
 	path = bundle/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
 [submodule "bundle/snipmate-snippets"]
 	path = bundle/snipmate-snippets
-	url = https://github.com/Jumbo88888/snipmate-snippets.git
+	url = git@github.com:CBR250/snipmate-snippets.git
 [submodule "bundle/DirDiff.vim"]
 	path = bundle/DirDiff.vim
 	url = https://github.com/vim-scripts/DirDiff.vim.git
@@ -109,4 +109,4 @@
 	url = git@github.com:wesleyche/SrcExpl.git
 [submodule "bundle/Taglist"]
 	path = bundle/Taglist
-	url = https://github.com/Jumbo88888/Taglist.git
+	url = git@github.com:CBR250/Taglist.git
