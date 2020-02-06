@@ -110,3 +110,6 @@
 [submodule "bundle/Taglist"]
 	path = bundle/Taglist
 	url = git@github.com:CBR250/Taglist.git
+[submodule "bundle/Trinity.git"]
+	path = bundle/Trinity.git
+	url = https://github.com/wesleyche/Trinity.git
