@@ -110,3 +110,6 @@
 [submodule "bundle/Trinity.git"]
 	path = bundle/Trinity.git
 	url = https://github.com/wesleyche/Trinity.git
+[submodule "bundle/snipmate-snippets"]
+	path = bundle/snipmate-snippets
+	url = git@github.com:CBR250/snipmate-snippets.git
