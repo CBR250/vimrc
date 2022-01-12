@@ -87,11 +87,10 @@
 	url = git://github.com/airblade/vim-gitgutter.git
 [submodule "bundle/multi-cscope-db.git"]
 	path = bundle/multi-cscope-db.git
-	url = git@github.com:CBR250/multi-cscope-db.git
+	url = https://github.com/CBR250/multi-cscope-db.git
 [submodule "bundle/ctrlp.vim.git"]
 	path = bundle/ctrlp.vim.git
-        url = git@github.com:CBR250/ctrlp.vim.git
-
+	url = https://github.com/CBR250/ctrlp.vim.git
 [submodule "bundle/emmet-vim"]
 	path = bundle/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
@@ -100,16 +99,16 @@
 	url = https://github.com/vim-scripts/DirDiff.vim.git
 [submodule "bundle/CCTree"]
 	path = bundle/CCTree
-	url = git@github.com:hari-rangarajan/CCTree.git
+	url = https://github.com/hari-rangarajan/CCTree.git
 [submodule "bundle/SrcExpl"]
 	path = bundle/SrcExpl
-	url = git@github.com:wesleyche/SrcExpl.git
+	url = https://github.com/wenlongche/SrcExpl.git
 [submodule "bundle/Taglist"]
 	path = bundle/Taglist
-	url = git@github.com:CBR250/Taglist.git
+	url = https://github.com/CBR250/Taglist.git
 [submodule "bundle/Trinity.git"]
 	path = bundle/Trinity.git
 	url = https://github.com/wesleyche/Trinity.git
 [submodule "bundle/snipmate-snippets"]
 	path = bundle/snipmate-snippets
-	url = git@github.com:CBR250/snipmate-snippets.git
+	url = https://github.com/CBR250/snipmate-snippets.git
